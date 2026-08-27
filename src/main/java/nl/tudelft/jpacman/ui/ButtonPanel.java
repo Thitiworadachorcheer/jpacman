@@ -37,4 +37,5 @@ class ButtonPanel extends JPanel {
             add(button);
         }
     }
+
 }
